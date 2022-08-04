@@ -1,0 +1,82 @@
+Muster Bewegungen
+
+SHIFT W= 10 Pixel hoch
+SHIFT A= 10 Pixel links
+SHIFT S= 10 Pixel runter
+SHIFT D= 10 Pixel rechts
+w= 1 Pixel hoch
+a= 1 Pixel links
+s= 1 Pixel runter
+d= 1 Pixel rechts
+
+Telbereich Bewegungen
+
+CTRL W= 10 Pixel hoch(CTRL+Shift+W)
+CTRL A= 10 Pixel links
+CTRL S= 10 Pixel runter
+CTRL D= 10 Pixel rechts
+CTRL w=  1 Pixel hoch
+CTRL a=  1 Pixel links
+CTRL s=  1 Pixel runter
+CTRL d=  1 Pixel rechts
+
+Box Bewegungen
+
+CTRL Cursor    UP= Box 10 Pixel hoch
+CTRL Cursor  Left= Box 10 Pixel links
+CTRL Cursor Right= Box 10 Pixel rechts
+CTRL Cursor  Down= Box 10 Pixel runter
+
+Cursor    UP= Box 1 Pixel hoch
+Cursor  Left= Box 1 Pixel links
+Cursor Right= Box 1 Pixel rechts
+Cursor  Down= Box 1 Pixel runter
+
+Mustergroesse aendern
+10er Tasttatur
+Shift + = Muster Hoehe  +1 Pixel
+Shift - = Muster Hoehe  -1 Pixel
+Shift * = Muster Breite +1 Pixel
+Shift / = Muster Breite -1 Pixel
+
+Teilbereichgroesse aendern
+10er Tasttatur
+ + = Teilbereich Hoehe  +1 Pixel
+ - = Teilbereich Hoehe  -1 Pixel
+ * = Teilbereich Breite +1 Pixel
+ / = Teilbereich Breite -1 Pixel
+
+Sonstiges
+
+CTRL C = Bereich kopieren
+CTRL V = Bereich einfuegen an Box Position
+
+Im Teilbereich
+Mouse Klick Links  = Setzte Aktuelle Farbe an Position
+Mouse Klick Rechts = Setzte Hintergrund Farbe an Position
+Mouse Klick Mitte  = Pipette setzte Farbe unter der Position als Aktuelle Farbe
+
+Im Muster
+Mouse Klick Links in Box und halten = Drag&Drop Box
+Mouse Klick Rechts = Positioniert die Box an die Mouse Position
+Mouse Klick Mitte  = Nicht belegt
+
+Im Lupenbereich
+Mouse Klick Links  = Lupe aktualisieren
+Mouse Klick Rechts = Nicht belegt
+Mouse Klick Mitte  = Nicht belegt
+
+Im Palettenbereich
+Mouse Klick Links auf Button = Führt den Button aus
+
+Mouse Klick Links auf Paletteneintrag = 
+Selektiert den Paletteneintrag als Vordergrundfarbe ist der Paletteneintrag
+bereits die Hintergrundfarbe werden die Farben getauscht
+
+Mouse Klick Rechts auf Paletteneintrag = 
+Selektiert den Paletteneintrag als Hintergrundfarbe ist der Paletteneintrag
+bereits die Vordergrundfarbe werden die Farben getauscht
+
+Mouse Klick Mitte  = Nicht belegt
+
+Git test
